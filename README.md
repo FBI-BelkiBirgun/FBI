@@ -7,3 +7,4 @@ Umarım bunları kullanarak intikamınızı alabilirsiniz.
 
 ## Rar'ın içinde spoof ve tekil SC'LER bulunmaktadır. Makinanız eğer spoof ise spoof atın eğer tekil ise tekil atın. ##
 
+## Uyarı; İnsanlara bireylere zarar vermek amacıyla paylaşılmamıştır. Sadece makinalarınızı korumak için ve kendinizi geliştirmek için kullanın. ##
